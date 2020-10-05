@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/bi-form/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/bi-form/tsconfig.spec.json"
+    }
+]
 }
