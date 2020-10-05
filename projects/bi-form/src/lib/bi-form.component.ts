@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-bi-form',
   template: `
     <p>
-      bi-form works!
+      it now works
     </p>
   `,
   styles: [
