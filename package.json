@@ -10,7 +10,8 @@
     "e2e": "ng e2e",
     "build-lib": "ng build bi-form",
     "npm-pack": "cd dist/bi-form && npm pack",
-    "package": "npm run build-lib && npm run npm-pack"
+    "package": "npm run build-lib && npm run npm-pack",
+    "postinstall": "ngcc"
   },
   "private": true,
   "dependencies": {
